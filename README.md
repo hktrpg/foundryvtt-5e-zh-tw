@@ -29,7 +29,7 @@
 2. 點擊右上角「安裝模組」（Install Module）。
 3. 直接輸入以下 Manifest 網址：
    ```
-   https://raw.githubusercontent.com/hktrpg/foundryvtt-5e-zh-tw/master/module.json
+   https://raw.githubusercontent.com/hktrpg/foundryvtt-5e-zh-tw/refs/heads/main/module.json
    ```
 4. 安裝完成後，在模組列表中啟用本模組。
 
