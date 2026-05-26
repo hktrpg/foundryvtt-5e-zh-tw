@@ -67,43 +67,11 @@
 ## 致謝
 
 - 感謝 [fvtt-cn](https://github.com/fvtt-cn) 團隊提供高品質的簡體中文翻譯基礎。
-- 感謝 HKTRPG 社群協助維護與轉換工作。
 - 感謝所有參與校對與提供意見的玩家們。
 
 ## 授權
 
 本模組遵循原始專案的授權方式發布。
-
-## 發布新版本（自動打包）
-
-本專案使用 GitHub Actions 自動根據 `module.json` 中的版本號打包發布。
-
-### 發布步驟
-
-1. 修改 `module.json` 中的 `version` 欄位（例如 `1.5.3.3.1`）
-2. 提交變更並推送：
-   ```bash
-   git add module.json
-   git commit -m "chore: bump version to 1.5.3.3.1"
-   git push
-   ```
-3. 建立與版本號相同的 tag 並推送：
-   ```bash
-   git tag 1.5.3.3.1
-   git push origin 1.5.3.3.1
-   ```
-4. GitHub Actions 會自動執行：
-   - 讀取 `module.json` 的版本號
-   - 只打包 `lang/`、`module.json`、`README.md` 成 `module.zip`
-   - 建立 Release 並上傳 `module.zip`
-
-發布完成後，使用者即可透過以下網址取得最新版本：
-```
-https://github.com/hktrpg/foundryvtt-5e-zh-tw/releases/latest/download/module.zip
-```
-
-你也可以在 GitHub 頁面 → Actions → "Release Foundry Module" → 手動觸發（workflow_dispatch）來測試打包流程。
-
 ---
 
 如果這個模組對你有幫助，歡迎給個 Star 支持一下！
