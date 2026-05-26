@@ -13,10 +13,10 @@
         }
     ],
     "url": "https://www.github.com/hktrpg/foundryvtt-5e-zh-tw",
-    "version": "1.5.3.3.1",
+    "version": "1.5.3.3.2",
     "compatibility": {
         "minimum": "10",
-        "verified": "12"
+        "verified": "14"
     },
     "languages": [
         {
