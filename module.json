@@ -64,6 +64,6 @@
             }
         ]
     },
-    "manifest": "https://raw.githubusercontent.com/hktrpg/foundryvtt-5e-zh-tw/refs/heads/master/module.json",
+    "manifest": "https://raw.githubusercontent.com/hktrpg/foundryvtt-5e-zh-tw/refs/heads/main/module.json",
     "download": "https://github.com/hktrpg/foundryvtt-5e-zh-tw/releases/latest/download/module.zip"
 }
