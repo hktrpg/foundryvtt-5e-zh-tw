@@ -13,7 +13,7 @@
         }
     ],
     "url": "https://www.github.com/hktrpg/foundryvtt-5e-zh-tw",
-    "version": "1.5.3.3.3",
+    "version": "1.5.3.3.5",
     "compatibility": {
         "minimum": "10",
         "verified": "14"
@@ -40,7 +40,7 @@
         ],
         "recommends": [
             {
-                "id": "dnd5e_DMTools-zh-tw",
+                "id": "dnd5e_DMTools",
                 "type": "module",
                 "manifest": "https://raw.githubusercontent.com/hktrpg/fvtt-5e-DMTools-zh-tw/main/module.json",
                 "compatibility": {}
