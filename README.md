@@ -2,6 +2,7 @@
 
 [![Foundry VTT v10+](https://img.shields.io/badge/Foundry%20VTT-v10%2B-blue)](https://foundryvtt.com/)
 [![D&D 5e System](https://img.shields.io/badge/D%26D%205e-3.x-orange)](https://github.com/foundryvtt/dnd5e)
+[![總下載次數](https://img.shields.io/github/downloads/hktrpg/foundryvtt-5e-zh-tw/total?label=%E7%B8%BD%E4%B8%8B%E8%BC%89%E6%AC%A1%E6%95%B8)](https://github.com/hktrpg/foundryvtt-5e-zh-tw/releases)
 
 這是 [D&D 5th Edition](https://github.com/foundryvtt/dnd5e) 系統在 Foundry VTT 上的**正體中文**在地化模組。
 
